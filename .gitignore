@@ -12,3 +12,6 @@ wheels/
 #Local DevEnv Variables
 .envrc
 .idea
+
+# Confidential source data file
+data/rrf_smart_manufacturing_granular.xlsx
