@@ -1,352 +1,352 @@
-project_code,size,incorporation_status,region,investment_budget,public_funding,nace_2_digits_code,nace_2_digits_description,sector_code,sector_description
-p_1,Small,Existing Business,Ionian Islands,482832.0,260504.28,11,Manufacture of beverages,C, Manufacturing
-p_2,Medium,Existing Business,Attica,729388.06,255285.82,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_2,Medium,Existing Business,Attica,729388.06,255285.82,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_2,Medium,Existing Business,Attica,729388.06,255285.82,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_3,Micro,Existing Business,Central Macedonia,359000.0,251300.0,31,Manufacture of furniture,C, Manufacturing
-p_3,Micro,Existing Business,Central Macedonia,359000.0,251300.0,31,Manufacture of furniture,C, Manufacturing
-p_3,Micro,Existing Business,Central Macedonia,359000.0,251300.0,31,Manufacture of furniture,C, Manufacturing
-p_3,Micro,Existing Business,Central Macedonia,359000.0,251300.0,31,Manufacture of furniture,C, Manufacturing
-p_4,Micro,New Business,Thessaly,471000.0,329200.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_4,Micro,New Business,Thessaly,471000.0,329200.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_4,Micro,New Business,Thessaly,471000.0,329200.0,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_5,Medium,Existing Business,Crete,421500.0,206535.0,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_6,Small,Existing Business,Central Macedonia,1508915.5,1055740.85,10,Manufacture of food products,C, Manufacturing
-p_7,Small,Existing Business,Attica,1483590.8,667615.86,20,Manufacture of chemicals and chemical products,C, Manufacturing
-p_7,Small,Existing Business,Attica,1483590.8,667615.86,20,Manufacture of chemicals and chemical products,C, Manufacturing
-p_8,Small,Existing Business,Central Macedonia,287754.0,200927.8,14,Manufacture of wearing apparel,C, Manufacturing
-p_8,Small,Existing Business,Central Macedonia,287754.0,200927.8,14,Manufacture of wearing apparel,C, Manufacturing
-p_9,Micro,Existing Business,Crete,632500.0,442250.0,18,Printing and reproduction of recorded media,C, Manufacturing
-p_9,Micro,Existing Business,Crete,632500.0,442250.0,18,Printing and reproduction of recorded media,C, Manufacturing
-p_9,Micro,Existing Business,Crete,632500.0,442250.0,18,Printing and reproduction of recorded media,C, Manufacturing
-p_10,Small,Existing Business,Attica,1199050.6,539572.77,20,Manufacture of chemicals and chemical products,C, Manufacturing
-p_11,Small,Existing Business,Central Macedonia,709700.0,446786.0,10,Manufacture of food products,C, Manufacturing
-p_11,Small,Existing Business,Central Macedonia,709700.0,446786.0,13,Manufacture of textiles,C, Manufacturing
-p_11,Small,Existing Business,Central Macedonia,709700.0,446786.0,13,Manufacture of textiles,C, Manufacturing
-p_11,Small,Existing Business,Central Macedonia,709700.0,446786.0,13,Manufacture of textiles,C, Manufacturing
-p_11,Small,Existing Business,Central Macedonia,709700.0,446786.0,14,Manufacture of wearing apparel,C, Manufacturing
-p_11,Small,Existing Business,Central Macedonia,709700.0,446786.0,31,Manufacture of furniture,C, Manufacturing
-p_11,Small,Existing Business,Central Macedonia,709700.0,446786.0,32,Other manufacturing,C, Manufacturing
-p_12,Small,Existing Business,Central Greece,1925443.32,1155265.99,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_13,Micro,Existing Business,Attica,2290000.0,801500.0,18,Printing and reproduction of recorded media,C, Manufacturing
-p_14,Medium,Existing Business,Epirus,1195388.53,454247.64,11,Manufacture of beverages,C, Manufacturing
-p_15,Small,Existing Business,Attica,543769.2,217757.68,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_16,Small,Existing Business,Attica,679765.0,304299.0,71,Architectural and engineering activities; technical testing and analysis,M," Legal, accounting, management, architecture, engineering, technical testing and analysis activities"
-p_17,Medium,Existing Business,Central Macedonia,564550.0,338730.0,10,Manufacture of food products,C, Manufacturing
-p_18,Medium,Existing Business,Thessaly,5939930.16,2197774.15,17,Manufacture of paper and paper products,C, Manufacturing
-p_18,Medium,Existing Business,Thessaly,5939930.16,2197774.15,17,Manufacture of paper and paper products,C, Manufacturing
-p_18,Medium,Existing Business,Thessaly,5939930.16,2197774.15,17,Manufacture of paper and paper products,C, Manufacturing
-p_18,Medium,Existing Business,Thessaly,5939930.16,2197774.15,20,Manufacture of chemicals and chemical products,C, Manufacturing
-p_18,Medium,Existing Business,Thessaly,5939930.16,2197774.15,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_18,Medium,Existing Business,Thessaly,5939930.16,2197774.15,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_18,Medium,Existing Business,Thessaly,5939930.16,2197774.15,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_18,Medium,Existing Business,Thessaly,5939930.16,2197774.15,52,Warehousing and support activities for transportation,H, Transportation and Storage
-p_19,Small,Existing Business,Attica,287000.0,129150.0,31,Manufacture of furniture,C, Manufacturing
-p_20,Micro,Existing Business,Central Macedonia,823400.0,459925.0,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_20,Micro,Existing Business,Central Macedonia,823400.0,459925.0,31,Manufacture of furniture,C, Manufacturing
-p_20,Micro,Existing Business,Central Macedonia,823400.0,459925.0,31,Manufacture of furniture,C, Manufacturing
-p_20,Micro,Existing Business,Central Macedonia,823400.0,459925.0,31,Manufacture of furniture,C, Manufacturing
-p_20,Micro,Existing Business,Central Macedonia,823400.0,459925.0,31,Manufacture of furniture,C, Manufacturing
-p_21,Micro,Existing Business,Central Greece,867332.0,520399.2,11,Manufacture of beverages,C, Manufacturing
-p_22,Medium,Existing Business,Peloponnese,694927.51,308026.11,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_23,Micro,Existing Business,Attica,696629.6,314333.32,18,Printing and reproduction of recorded media,C, Manufacturing
-p_23,Micro,Existing Business,Attica,696629.6,314333.32,18,Printing and reproduction of recorded media,C, Manufacturing
-p_24,Small,Existing Business,Central Macedonia,651678.0,226986.25,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_25,Small,Existing Business,Crete,673755.0,334862.91,10,Manufacture of food products,C, Manufacturing
-p_25,Small,Existing Business,Crete,673755.0,334862.91,10,Manufacture of food products,C, Manufacturing
-p_26,Small,Existing Business,Thessaly,514920.0,257460.0,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C, Manufacturing
-p_26,Small,Existing Business,Thessaly,514920.0,257460.0,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_26,Small,Existing Business,Thessaly,514920.0,257460.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_27,Medium,Existing Business,Central Macedonia,6000000.0,3600000.0,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_28,Small,Existing Business,Central Macedonia,1244508.4,684354.66,18,Printing and reproduction of recorded media,C, Manufacturing
-p_28,Small,Existing Business,Central Macedonia,1244508.4,684354.66,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_29,Small,Existing Business,Western Greece,845336.46,422668.23,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_29,Small,Existing Business,Western Greece,845336.46,422668.23,31,Manufacture of furniture,C, Manufacturing
-p_30,Small,Existing Business,Eastern Macedonia and Thrace,641140.48,355695.74,27,Manufacture of electrical equipment,C, Manufacturing
-p_31,Micro,Existing Business,Eastern Macedonia and Thrace,624074.94,374194.96,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_32,Small,Existing Business,Central Greece,383800.0,230030.0,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_33,Micro,Existing Business,Western Greece,436900.0,262140.0,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_33,Micro,Existing Business,Western Greece,436900.0,262140.0,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_33,Micro,Existing Business,Western Greece,436900.0,262140.0,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_34,Small,Existing Business,Attica,306500.0,138750.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_34,Small,Existing Business,Attica,306500.0,138750.0,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_35,Medium,Existing Business,Central Macedonia,5721100.0,3432660.0,10,Manufacture of food products,C, Manufacturing
-p_35,Medium,Existing Business,Central Macedonia,5721100.0,3432660.0,10,Manufacture of food products,C, Manufacturing
-p_36,Small,Existing Business,Central Macedonia,620600.0,434420.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_36,Small,Existing Business,Central Macedonia,620600.0,434420.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_37,Micro,New Business,Attica,970297.5,437008.87,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_37,Micro,New Business,Attica,970297.5,437008.87,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_37,Micro,New Business,Attica,970297.5,437008.87,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_37,Micro,New Business,Attica,970297.5,437008.87,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_37,Micro,New Business,Attica,970297.5,437008.87,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_37,Micro,New Business,Attica,970297.5,437008.87,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_37,Micro,New Business,Attica,970297.5,437008.87,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_38,Small,Existing Business,Attica,776656.87,349495.58,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_39,Medium,Existing Business,Attica,5999675.98,1799902.79,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_39,Medium,Existing Business,Attica,5999675.98,1799902.79,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_40,Small,Existing Business,Central Macedonia,468109.5,280865.7,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_41,Small,Existing Business,Central Macedonia,316235.0,221364.5,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_42,Micro,Existing Business,Epirus,363770.0,232239.0,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C, Manufacturing
-p_43,Small,Existing Business,Central Macedonia,1057475.0,686983.75,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_44,Micro,Existing Business,Thessaly,303604.45,192983.11,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_44,Micro,Existing Business,Thessaly,303604.45,192983.11,27,Manufacture of electrical equipment,C, Manufacturing
-p_45,Medium,Existing Business,Central Macedonia,2745364.16,1363219.27,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
-p_46,Micro,Existing Business,Central Macedonia,300000.0,188570.38,11,Manufacture of beverages,C, Manufacturing
-p_47,Micro,Existing Business,Central Macedonia,849640.0,526476.8,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_48,Small,Existing Business,Attica,446126.53,178450.61,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C, Manufacturing
-p_49,Small,Existing Business,Central Macedonia,545215.48,327129.28,10,Manufacture of food products,C, Manufacturing
-p_50,Small,Existing Business,Attica,447500.0,179000.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_51,Small,Existing Business,Thessaly,1501494.0,900896.4,31,Manufacture of furniture,C, Manufacturing
-p_51,Small,Existing Business,Thessaly,1501494.0,900896.4,31,Manufacture of furniture,C, Manufacturing
-p_52,Micro,Existing Business,Central Macedonia,262660.0,183862.0,10,Manufacture of food products,C, Manufacturing
-p_53,Medium,Existing Business,Central Macedonia,1333166.4,590884.83,20,Manufacture of chemicals and chemical products,C, Manufacturing
-p_53,Medium,Existing Business,Central Macedonia,1333166.4,590884.83,20,Manufacture of chemicals and chemical products,C, Manufacturing
-p_53,Medium,Existing Business,Central Macedonia,1333166.4,590884.83,20,Manufacture of chemicals and chemical products,C, Manufacturing
-p_53,Medium,Existing Business,Central Macedonia,1333166.4,590884.83,20,Manufacture of chemicals and chemical products,C, Manufacturing
-p_54,Small,Existing Business,Attica,1791000.0,805949.98,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_54,Small,Existing Business,Attica,1791000.0,805949.98,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_54,Small,Existing Business,Attica,1791000.0,805949.98,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_55,Small,Existing Business,Central Macedonia,616480.0,386757.4,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_56,Medium,Existing Business,Central Macedonia,2191770.7,1048089.92,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C, Manufacturing
-p_57,Small,Existing Business,Central Greece,2420000.0,1338000.0,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_57,Small,Existing Business,Central Greece,2420000.0,1338000.0,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_58,Small,Existing Business,Central Macedonia,1009500.0,605700.0,11,Manufacture of beverages,C, Manufacturing
-p_58,Small,Existing Business,Central Macedonia,1009500.0,605700.0,11,Manufacture of beverages,C, Manufacturing
-p_58,Small,Existing Business,Central Macedonia,1009500.0,605700.0,11,Manufacture of beverages,C, Manufacturing
-p_58,Small,Existing Business,Central Macedonia,1009500.0,605700.0,11,Manufacture of beverages,C, Manufacturing
-p_59,Micro,Existing Business,Central Macedonia,350200.0,244140.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_59,Micro,Existing Business,Central Macedonia,350200.0,244140.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_60,Small,Existing Business,Western Greece,469400.0,328080.0,10,Manufacture of food products,C, Manufacturing
-p_61,Micro,Existing Business,Central Macedonia,273400.0,177349.99,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_62,Small,Existing Business,Eastern Macedonia and Thrace,1729536.98,1192880.51,31,Manufacture of furniture,C, Manufacturing
-p_63,Small,Existing Business,Central Macedonia,912736.8,638415.74,29,"Manufacture of motor vehicles, trailers and semi-trailers",C, Manufacturing
-p_64,Micro,Existing Business,Epirus,804050.0,482430.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_64,Micro,Existing Business,Epirus,804050.0,482430.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_64,Micro,Existing Business,Epirus,804050.0,482430.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_64,Micro,Existing Business,Epirus,804050.0,482430.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_65,Micro,Existing Business,Central Macedonia,738281.0,516296.7,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_66,Micro,Existing Business,Central Macedonia,565522.63,394865.84,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_67,Micro,Existing Business,Eastern Macedonia and Thrace,1046947.25,721780.27,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_67,Micro,Existing Business,Eastern Macedonia and Thrace,1046947.25,721780.27,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_67,Micro,Existing Business,Eastern Macedonia and Thrace,1046947.25,721780.27,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_68,Micro,Existing Business,Western Macedonia,626096.45,426445.35,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_69,Medium,Existing Business,Central Macedonia,2056049.3,1231791.51,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_69,Medium,Existing Business,Central Macedonia,2056049.3,1231791.51,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_70,Small,New Business,Central Macedonia,309860.0,212602.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_71,Small,Existing Business,Central Macedonia,409680.0,229270.8,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_72,Micro,Existing Business,Central Macedonia,416554.45,286815.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_72,Micro,Existing Business,Central Macedonia,416554.45,286815.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_72,Micro,Existing Business,Central Macedonia,416554.45,286815.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_72,Micro,Existing Business,Central Macedonia,416554.45,286815.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_72,Micro,Existing Business,Central Macedonia,416554.45,286815.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_72,Micro,Existing Business,Central Macedonia,416554.45,286815.0,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_73,Small,Existing Business,Central Macedonia,992471.34,690069.89,27,Manufacture of electrical equipment,C, Manufacturing
-p_74,Micro,Existing Business,Central Macedonia,402867.81,241220.68,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_75,Small,Existing Business,Central Macedonia,661848.0,330924.0,18,Printing and reproduction of recorded media,C, Manufacturing
-p_75,Small,Existing Business,Central Macedonia,661848.0,330924.0,18,Printing and reproduction of recorded media,C, Manufacturing
-p_75,Small,Existing Business,Central Macedonia,661848.0,330924.0,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_76,Micro,Existing Business,Central Greece,1050640.0,525320.0,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_76,Micro,Existing Business,Central Greece,1050640.0,525320.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_76,Micro,Existing Business,Central Greece,1050640.0,525320.0,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_76,Micro,Existing Business,Central Greece,1050640.0,525320.0,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_77,Medium,Existing Business,Attica,1173988.75,410896.06,31,Manufacture of furniture,C, Manufacturing
-p_77,Medium,Existing Business,Attica,1173988.75,410896.06,31,Manufacture of furniture,C, Manufacturing
-p_78,Micro,Existing Business,Central Greece,308100.0,184610.0,18,Printing and reproduction of recorded media,C, Manufacturing
-p_78,Micro,Existing Business,Central Greece,308100.0,184610.0,18,Printing and reproduction of recorded media,C, Manufacturing
-p_78,Micro,Existing Business,Central Greece,308100.0,184610.0,18,Printing and reproduction of recorded media,C, Manufacturing
-p_78,Micro,Existing Business,Central Greece,308100.0,184610.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_79,Small,Existing Business,Central Macedonia,2065525.25,1301425.6,10,Manufacture of food products,C, Manufacturing
-p_79,Small,Existing Business,Central Macedonia,2065525.25,1301425.6,10,Manufacture of food products,C, Manufacturing
-p_79,Small,Existing Business,Central Macedonia,2065525.25,1301425.6,10,Manufacture of food products,C, Manufacturing
-p_79,Small,Existing Business,Central Macedonia,2065525.25,1301425.6,10,Manufacture of food products,C, Manufacturing
-p_79,Small,Existing Business,Central Macedonia,2065525.25,1301425.6,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_80,Small,Existing Business,Central Macedonia,1051500.0,727550.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_80,Small,Existing Business,Central Macedonia,1051500.0,727550.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_80,Small,Existing Business,Central Macedonia,1051500.0,727550.0,27,Manufacture of electrical equipment,C, Manufacturing
-p_80,Small,Existing Business,Central Macedonia,1051500.0,727550.0,27,Manufacture of electrical equipment,C, Manufacturing
-p_81,Small,Existing Business,South Aegean,675192.4,404865.41,11,Manufacture of beverages,C, Manufacturing
-p_82,Small,Existing Business,Central Macedonia,3699264.0,2196489.1,32,Other manufacturing,C, Manufacturing
-p_83,Small,Existing Business,Peloponnese,2995690.0,1647379.5,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_84,Small,Existing Business,Central Macedonia,612558.0,428790.6,14,Manufacture of wearing apparel,C, Manufacturing
-p_85,Medium,Existing Business,Central Macedonia,678838.7,305602.41,10,Manufacture of food products,C, Manufacturing
-p_85,Medium,Existing Business,Central Macedonia,678838.7,305602.41,10,Manufacture of food products,C, Manufacturing
-p_85,Medium,Existing Business,Central Macedonia,678838.7,305602.41,10,Manufacture of food products,C, Manufacturing
-p_86,Small,Existing Business,Central Macedonia,3402581.88,2381307.31,10,Manufacture of food products,C, Manufacturing
-p_86,Small,Existing Business,Central Macedonia,3402581.88,2381307.31,52,Warehousing and support activities for transportation,H, Transportation and Storage
-p_86,Small,Existing Business,Central Macedonia,3402581.88,2381307.31,52,Warehousing and support activities for transportation,H, Transportation and Storage
-p_86,Small,Existing Business,Central Macedonia,3402581.88,2381307.31,52,Warehousing and support activities for transportation,H, Transportation and Storage
-p_86,Small,Existing Business,Central Macedonia,3402581.88,2381307.31,52,Warehousing and support activities for transportation,H, Transportation and Storage
-p_86,Small,Existing Business,Central Macedonia,3402581.88,2381307.31,52,Warehousing and support activities for transportation,H, Transportation and Storage
-p_87,Small,Existing Business,Central Macedonia,373016.66,223559.98,13,Manufacture of textiles,C, Manufacturing
-p_87,Small,Existing Business,Central Macedonia,373016.66,223559.98,14,Manufacture of wearing apparel,C, Manufacturing
-p_88,Small,Existing Business,Eastern Macedonia and Thrace,1820717.97,1183466.66,11,Manufacture of beverages,C, Manufacturing
-p_89,Medium,Existing Business,Crete,1674060.0,1004436.0,10,Manufacture of food products,C, Manufacturing
-p_89,Medium,Existing Business,Crete,1674060.0,1004436.0,10,Manufacture of food products,C, Manufacturing
-p_90,Small,Existing Business,Central Macedonia,497431.16,321983.28,13,Manufacture of textiles,C, Manufacturing
-p_90,Small,Existing Business,Central Macedonia,497431.16,321983.28,14,Manufacture of wearing apparel,C, Manufacturing
-p_90,Small,Existing Business,Central Macedonia,497431.16,321983.28,17,Manufacture of paper and paper products,C, Manufacturing
-p_91,Small,Existing Business,Attica,727938.0,291425.2,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_92,Micro,Existing Business,Western Greece,395000.0,275899.98,18,Printing and reproduction of recorded media,C, Manufacturing
-p_92,Micro,Existing Business,Western Greece,395000.0,275899.98,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_92,Micro,Existing Business,Western Greece,395000.0,275899.98,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_92,Micro,Existing Business,Western Greece,395000.0,275899.98,27,Manufacture of electrical equipment,C, Manufacturing
-p_93,Small,Existing Business,Central Macedonia,501318.67,280588.44,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_93,Small,Existing Business,Central Macedonia,501318.67,280588.44,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_93,Small,Existing Business,Central Macedonia,501318.67,280588.44,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_94,Small,Existing Business,Central Macedonia,326900.0,163450.0,17,Manufacture of paper and paper products,C, Manufacturing
-p_94,Small,Existing Business,Central Macedonia,326900.0,163450.0,18,Printing and reproduction of recorded media,C, Manufacturing
-p_95,Medium,Existing Business,Central Macedonia,5988385.1,1979760.06,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_95,Medium,Existing Business,Central Macedonia,5988385.1,1979760.06,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_96,Micro,Existing Business,Central Macedonia,512262.35,348338.37,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_96,Micro,Existing Business,Central Macedonia,512262.35,348338.37,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_96,Micro,Existing Business,Central Macedonia,512262.35,348338.37,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_97,Small,Existing Business,Western Greece,2310443.5,1564817.45,10,Manufacture of food products,C, Manufacturing
-p_97,Small,Existing Business,Western Greece,2310443.5,1564817.45,10,Manufacture of food products,C, Manufacturing
-p_97,Small,Existing Business,Western Greece,2310443.5,1564817.45,10,Manufacture of food products,C, Manufacturing
-p_98,Micro,Existing Business,Central Macedonia,523720.0,366104.0,24,Manufacture of basic metals,C, Manufacturing
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_99,Micro,Existing Business,Thessaly,262000.0,182900.0,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_100,Small,Existing Business,Crete,1568700.0,1097590.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_100,Small,Existing Business,Crete,1568700.0,1097590.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_100,Small,Existing Business,Crete,1568700.0,1097590.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_101,Micro,Existing Business,Central Macedonia,2635000.0,1844500.0,82,"Office administrative, office support and other business support activities",N, Administrative and support service activities
-p_102,Small,Existing Business,Western Macedonia,748500.0,523450.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_103,Small,Existing Business,Western Macedonia,2297751.46,1607926.01,20,Manufacture of chemicals and chemical products,C, Manufacturing
-p_104,Small,Existing Business,Central Macedonia,1646070.0,1140949.0,27,Manufacture of electrical equipment,C, Manufacturing
-p_105,Micro,Existing Business,Eastern Macedonia and Thrace,415353.0,282440.04,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_106,Medium,Existing Business,Central Macedonia,724975.0,434735.0,10,Manufacture of food products,C, Manufacturing
-p_107,Micro,Existing Business,Central Macedonia,402100.0,241010.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_107,Micro,Existing Business,Central Macedonia,402100.0,241010.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_107,Micro,Existing Business,Central Macedonia,402100.0,241010.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_107,Micro,Existing Business,Central Macedonia,402100.0,241010.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_108,Small,Existing Business,Central Macedonia,1002360.0,601166.0,13,Manufacture of textiles,C, Manufacturing
-p_108,Small,Existing Business,Central Macedonia,1002360.0,601166.0,17,Manufacture of paper and paper products,C, Manufacturing
-p_108,Small,Existing Business,Central Macedonia,1002360.0,601166.0,18,Printing and reproduction of recorded media,C, Manufacturing
-p_109,Small,Existing Business,Western Greece,313255.74,218279.01,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
-p_109,Small,Existing Business,Western Greece,313255.74,218279.01,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
-p_109,Small,Existing Business,Western Greece,313255.74,218279.01,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
-p_109,Small,Existing Business,Western Greece,313255.74,218279.01,27,Manufacture of electrical equipment,C, Manufacturing
-p_110,Small,Existing Business,Central Greece,1187621.0,712322.6,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_111,Small,Existing Business,Central Macedonia,1132751.02,764925.7,24,Manufacture of basic metals,C, Manufacturing
-p_112,Small,Existing Business,Epirus,468774.0,327641.8,71,Architectural and engineering activities; technical testing and analysis,M," Legal, accounting, management, architecture, engineering, technical testing and analysis activities"
-p_113,Small,New Business,Attica,768363.0,345763.35,10,Manufacture of food products,C, Manufacturing
-p_114,Micro,New Business,Central Macedonia,350990.0,210344.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_115,Micro,Existing Business,Attica,500000.0,225000.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_116,Small,Existing Business,Western Macedonia,572000.0,399400.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_116,Small,Existing Business,Western Macedonia,572000.0,399400.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_117,Medium,Existing Business,Thessaly,2582153.0,1301195.09,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_117,Medium,Existing Business,Thessaly,2582153.0,1301195.09,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_117,Medium,Existing Business,Thessaly,2582153.0,1301195.09,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_118,Small,New Business,Attica,3228200.0,1454565.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_119,Small,Existing Business,Epirus,2124753.0,1487327.1,10,Manufacture of food products,C, Manufacturing
-p_119,Small,Existing Business,Epirus,2124753.0,1487327.1,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_120,Micro,Existing Business,Central Macedonia,687500.0,412250.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_120,Micro,Existing Business,Central Macedonia,687500.0,412250.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_121,Small,Existing Business,Central Macedonia,1147500.0,793750.0,27,Manufacture of electrical equipment,C, Manufacturing
-p_121,Small,Existing Business,Central Macedonia,1147500.0,793750.0,27,Manufacture of electrical equipment,C, Manufacturing
-p_122,Small,Existing Business,Crete,637500.0,439400.0,10,Manufacture of food products,C, Manufacturing
-p_123,Small,Existing Business,Thessaly,2214465.64,1317182.04,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,C, Manufacturing
-p_123,Small,Existing Business,Thessaly,2214465.64,1317182.04,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
-p_123,Small,Existing Business,Thessaly,2214465.64,1317182.04,71,Architectural and engineering activities; technical testing and analysis,M," Legal, accounting, management, architecture, engineering, technical testing and analysis activities"
-p_124,Medium,Existing Business,Central Macedonia,1040000.0,520000.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_124,Medium,Existing Business,Central Macedonia,1040000.0,520000.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_124,Medium,Existing Business,Central Macedonia,1040000.0,520000.0,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
-p_124,Medium,Existing Business,Central Macedonia,1040000.0,520000.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_124,Medium,Existing Business,Central Macedonia,1040000.0,520000.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_124,Medium,Existing Business,Central Macedonia,1040000.0,520000.0,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,24,Manufacture of basic metals,C, Manufacturing
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,24,Manufacture of basic metals,C, Manufacturing
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing Business,Central Greece,294345.69,174777.41,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_126,Medium,Existing Business,Central Greece,2551324.44,1275662.22,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_127,Small,Existing Business,Attica,507144.0,228214.8,17,Manufacture of paper and paper products,C, Manufacturing
-p_127,Small,Existing Business,Attica,507144.0,228214.8,17,Manufacture of paper and paper products,C, Manufacturing
-p_127,Small,Existing Business,Attica,507144.0,228214.8,18,Printing and reproduction of recorded media,C, Manufacturing
-p_127,Small,Existing Business,Attica,507144.0,228214.8,18,Printing and reproduction of recorded media,C, Manufacturing
-p_127,Small,Existing Business,Attica,507144.0,228214.8,18,Printing and reproduction of recorded media,C, Manufacturing
-p_127,Small,Existing Business,Attica,507144.0,228214.8,18,Printing and reproduction of recorded media,C, Manufacturing
-p_127,Small,Existing Business,Attica,507144.0,228214.8,18,Printing and reproduction of recorded media,C, Manufacturing
-p_127,Small,Existing Business,Attica,507144.0,228214.8,18,Printing and reproduction of recorded media,C, Manufacturing
-p_127,Small,Existing Business,Attica,507144.0,228214.8,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_128,Micro,Existing Business,Western Greece,448990.0,269393.99,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_129,Small,Existing Business,Western Greece,462047.0,231023.5,10,Manufacture of food products,C, Manufacturing
-p_129,Small,Existing Business,Western Greece,462047.0,231023.5,10,Manufacture of food products,C, Manufacturing
-p_130,Small,Existing Business,Western Greece,2662800.0,1597680.0,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_131,Small,Existing Business,Central Macedonia,380507.79,230875.0,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_132,Small,Existing Business,South Aegean,789418.9,471351.34,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_132,Small,Existing Business,South Aegean,789418.9,471351.34,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_133,Medium,Existing Business,Peloponnese,2329360.0,1164680.0,27,Manufacture of electrical equipment,C, Manufacturing
-p_134,Small,Existing Business,Central Macedonia,1160973.0,610815.4,10,Manufacture of food products,C, Manufacturing
-p_134,Small,Existing Business,Central Macedonia,1160973.0,610815.4,10,Manufacture of food products,C, Manufacturing
-p_135,Small,Existing Business,Central Macedonia,460579.0,321405.3,17,Manufacture of paper and paper products,C, Manufacturing
-p_135,Small,Existing Business,Central Macedonia,460579.0,321405.3,18,Printing and reproduction of recorded media,C, Manufacturing
-p_135,Small,Existing Business,Central Macedonia,460579.0,321405.3,18,Printing and reproduction of recorded media,C, Manufacturing
-p_136,Small,Existing Business,Attica,5320202.19,2309715.92,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,C, Manufacturing
-p_137,Medium,Existing Business,Western Macedonia,838893.0,496225.8,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_137,Medium,Existing Business,Western Macedonia,838893.0,496225.8,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_137,Medium,Existing Business,Western Macedonia,838893.0,496225.8,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_138,Micro,Existing Business,Ionian Islands,756657.0,452394.2,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_139,Small,Existing Business,Peloponnese,699500.0,279800.0,10,Manufacture of food products,C, Manufacturing
-p_140,Small,Existing Business,Central Macedonia,1272247.5,826960.87,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_140,Small,Existing Business,Central Macedonia,1272247.5,826960.87,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_140,Small,Existing Business,Central Macedonia,1272247.5,826960.87,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
-p_140,Small,Existing Business,Central Macedonia,1272247.5,826960.87,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
-p_140,Small,Existing Business,Central Macedonia,1272247.5,826960.87,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
-p_140,Small,Existing Business,Central Macedonia,1272247.5,826960.87,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
-p_140,Small,Existing Business,Central Macedonia,1272247.5,826960.87,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
-p_140,Small,Existing Business,Central Macedonia,1272247.5,826960.87,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_140,Small,Existing Business,Central Macedonia,1272247.5,826960.87,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_141,Small,Existing Business,Central Macedonia,6000000.0,4200000.0,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_141,Small,Existing Business,Central Macedonia,6000000.0,4200000.0,52,Warehousing and support activities for transportation,H, Transportation and Storage
-p_142,Small,Existing Business,Eastern Macedonia and Thrace,1029130.0,720391.0,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_143,Medium,Existing Business,Central Greece,4036913.75,1614765.49,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_144,Medium,Existing Business,Central Macedonia,931169.01,468001.39,11,Manufacture of beverages,C, Manufacturing
-p_145,Small,Existing Business,Attica,799173.99,359628.28,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_145,Small,Existing Business,Attica,799173.99,359628.28,27,Manufacture of electrical equipment,C, Manufacturing
-p_146,Small,Existing Business,Epirus,760190.25,531133.17,10,Manufacture of food products,C, Manufacturing
-p_147,Small,Existing Business,Central Macedonia,627250.09,439075.06,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_148,Small,Existing Business,Western Macedonia,1037376.81,719163.76,10,Manufacture of food products,C, Manufacturing
-p_149,Small,Existing Business,Western Macedonia,346118.25,241282.77,10,Manufacture of food products,C, Manufacturing
-p_149,Small,Existing Business,Western Macedonia,346118.25,241282.77,10,Manufacture of food products,C, Manufacturing
-p_149,Small,Existing Business,Western Macedonia,346118.25,241282.77,10,Manufacture of food products,C, Manufacturing
-p_150,Micro,Existing Business,Western Macedonia,291900.0,203330.0,10,Manufacture of food products,C, Manufacturing
-p_151,Micro,Existing Business,North Aegean,1160000.0,866250.0,10,Manufacture of food products,C, Manufacturing
+project_code,size,status,region,investment_budget,public_funding,nace_2_digits_code,nace_2_digits_description,sector_code,sector_description
+p_1,Small,Existing,Ionian Islands,0.482832,0.26050428,11,Manufacture of beverages,C, Manufacturing
+p_2,Medium,Existing,Attica,0.72938806,0.25528582,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_2,Medium,Existing,Attica,0.72938806,0.25528582,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_2,Medium,Existing,Attica,0.72938806,0.25528582,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_3,Micro,Existing,Central Macedonia,0.359,0.2513,31,Manufacture of furniture,C, Manufacturing
+p_3,Micro,Existing,Central Macedonia,0.359,0.2513,31,Manufacture of furniture,C, Manufacturing
+p_3,Micro,Existing,Central Macedonia,0.359,0.2513,31,Manufacture of furniture,C, Manufacturing
+p_3,Micro,Existing,Central Macedonia,0.359,0.2513,31,Manufacture of furniture,C, Manufacturing
+p_4,Micro,New,Thessaly,0.471,0.3292,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_4,Micro,New,Thessaly,0.471,0.3292,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_4,Micro,New,Thessaly,0.471,0.3292,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_5,Medium,Existing,Crete,0.4215,0.206535,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_6,Small,Existing,Central Macedonia,1.5089155,1.05574085,10,Manufacture of food products,C, Manufacturing
+p_7,Small,Existing,Attica,1.4835908,0.66761586,20,Manufacture of chemicals and chemical products,C, Manufacturing
+p_7,Small,Existing,Attica,1.4835908,0.66761586,20,Manufacture of chemicals and chemical products,C, Manufacturing
+p_8,Small,Existing,Central Macedonia,0.287754,0.2009278,14,Manufacture of wearing apparel,C, Manufacturing
+p_8,Small,Existing,Central Macedonia,0.287754,0.2009278,14,Manufacture of wearing apparel,C, Manufacturing
+p_9,Micro,Existing,Crete,0.6325,0.44225,18,Printing and reproduction of recorded media,C, Manufacturing
+p_9,Micro,Existing,Crete,0.6325,0.44225,18,Printing and reproduction of recorded media,C, Manufacturing
+p_9,Micro,Existing,Crete,0.6325,0.44225,18,Printing and reproduction of recorded media,C, Manufacturing
+p_10,Small,Existing,Attica,1.1990506,0.53957277,20,Manufacture of chemicals and chemical products,C, Manufacturing
+p_11,Small,Existing,Central Macedonia,0.7097,0.446786,10,Manufacture of food products,C, Manufacturing
+p_11,Small,Existing,Central Macedonia,0.7097,0.446786,13,Manufacture of textiles,C, Manufacturing
+p_11,Small,Existing,Central Macedonia,0.7097,0.446786,13,Manufacture of textiles,C, Manufacturing
+p_11,Small,Existing,Central Macedonia,0.7097,0.446786,13,Manufacture of textiles,C, Manufacturing
+p_11,Small,Existing,Central Macedonia,0.7097,0.446786,14,Manufacture of wearing apparel,C, Manufacturing
+p_11,Small,Existing,Central Macedonia,0.7097,0.446786,31,Manufacture of furniture,C, Manufacturing
+p_11,Small,Existing,Central Macedonia,0.7097,0.446786,32,Other manufacturing,C, Manufacturing
+p_12,Small,Existing,Central Greece,1.92544332,1.15526599,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_13,Micro,Existing,Attica,2.29,0.8015,18,Printing and reproduction of recorded media,C, Manufacturing
+p_14,Medium,Existing,Epirus,1.19538853,0.45424764,11,Manufacture of beverages,C, Manufacturing
+p_15,Small,Existing,Attica,0.5437692,0.21775767999999998,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_16,Small,Existing,Attica,0.679765,0.304299,71,Architectural and engineering activities; technical testing and analysis,M," Legal, accounting, management, architecture, engineering, technical testing and analysis activities"
+p_17,Medium,Existing,Central Macedonia,0.56455,0.33873,10,Manufacture of food products,C, Manufacturing
+p_18,Medium,Existing,Thessaly,5.93993016,2.19777415,17,Manufacture of paper and paper products,C, Manufacturing
+p_18,Medium,Existing,Thessaly,5.93993016,2.19777415,17,Manufacture of paper and paper products,C, Manufacturing
+p_18,Medium,Existing,Thessaly,5.93993016,2.19777415,17,Manufacture of paper and paper products,C, Manufacturing
+p_18,Medium,Existing,Thessaly,5.93993016,2.19777415,20,Manufacture of chemicals and chemical products,C, Manufacturing
+p_18,Medium,Existing,Thessaly,5.93993016,2.19777415,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_18,Medium,Existing,Thessaly,5.93993016,2.19777415,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_18,Medium,Existing,Thessaly,5.93993016,2.19777415,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_18,Medium,Existing,Thessaly,5.93993016,2.19777415,52,Warehousing and support activities for transportation,H, Transportation and Storage
+p_19,Small,Existing,Attica,0.287,0.12915,31,Manufacture of furniture,C, Manufacturing
+p_20,Micro,Existing,Central Macedonia,0.8234,0.459925,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_20,Micro,Existing,Central Macedonia,0.8234,0.459925,31,Manufacture of furniture,C, Manufacturing
+p_20,Micro,Existing,Central Macedonia,0.8234,0.459925,31,Manufacture of furniture,C, Manufacturing
+p_20,Micro,Existing,Central Macedonia,0.8234,0.459925,31,Manufacture of furniture,C, Manufacturing
+p_20,Micro,Existing,Central Macedonia,0.8234,0.459925,31,Manufacture of furniture,C, Manufacturing
+p_21,Micro,Existing,Central Greece,0.867332,0.5203992000000001,11,Manufacture of beverages,C, Manufacturing
+p_22,Medium,Existing,Peloponnese,0.69492751,0.30802610999999996,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_23,Micro,Existing,Attica,0.6966296,0.31433332,18,Printing and reproduction of recorded media,C, Manufacturing
+p_23,Micro,Existing,Attica,0.6966296,0.31433332,18,Printing and reproduction of recorded media,C, Manufacturing
+p_24,Small,Existing,Central Macedonia,0.651678,0.22698625,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_25,Small,Existing,Crete,0.673755,0.33486290999999996,10,Manufacture of food products,C, Manufacturing
+p_25,Small,Existing,Crete,0.673755,0.33486290999999996,10,Manufacture of food products,C, Manufacturing
+p_26,Small,Existing,Thessaly,0.51492,0.25746,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C, Manufacturing
+p_26,Small,Existing,Thessaly,0.51492,0.25746,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_26,Small,Existing,Thessaly,0.51492,0.25746,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_27,Medium,Existing,Central Macedonia,6.0,3.6,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_28,Small,Existing,Central Macedonia,1.2445084,0.68435466,18,Printing and reproduction of recorded media,C, Manufacturing
+p_28,Small,Existing,Central Macedonia,1.2445084,0.68435466,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_29,Small,Existing,Western Greece,0.84533646,0.42266823,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_29,Small,Existing,Western Greece,0.84533646,0.42266823,31,Manufacture of furniture,C, Manufacturing
+p_30,Small,Existing,Eastern Macedonia and Thrace,0.64114048,0.35569574,27,Manufacture of electrical equipment,C, Manufacturing
+p_31,Micro,Existing,Eastern Macedonia and Thrace,0.62407494,0.37419496,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_32,Small,Existing,Central Greece,0.3838,0.23003,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_33,Micro,Existing,Western Greece,0.4369,0.26214,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_33,Micro,Existing,Western Greece,0.4369,0.26214,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_33,Micro,Existing,Western Greece,0.4369,0.26214,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_34,Small,Existing,Attica,0.3065,0.13875,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_34,Small,Existing,Attica,0.3065,0.13875,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_35,Medium,Existing,Central Macedonia,5.7211,3.43266,10,Manufacture of food products,C, Manufacturing
+p_35,Medium,Existing,Central Macedonia,5.7211,3.43266,10,Manufacture of food products,C, Manufacturing
+p_36,Small,Existing,Central Macedonia,0.6206,0.43442,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_36,Small,Existing,Central Macedonia,0.6206,0.43442,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_37,Micro,New,Attica,0.9702975,0.43700887,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_37,Micro,New,Attica,0.9702975,0.43700887,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_37,Micro,New,Attica,0.9702975,0.43700887,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_37,Micro,New,Attica,0.9702975,0.43700887,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_37,Micro,New,Attica,0.9702975,0.43700887,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_37,Micro,New,Attica,0.9702975,0.43700887,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_37,Micro,New,Attica,0.9702975,0.43700887,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_38,Small,Existing,Attica,0.7766568699999999,0.34949558000000003,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_39,Medium,Existing,Attica,5.99967598,1.79990279,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_39,Medium,Existing,Attica,5.99967598,1.79990279,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_40,Small,Existing,Central Macedonia,0.4681095,0.2808657,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_41,Small,Existing,Central Macedonia,0.316235,0.2213645,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_42,Micro,Existing,Epirus,0.36377,0.232239,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C, Manufacturing
+p_43,Small,Existing,Central Macedonia,1.057475,0.68698375,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_44,Micro,Existing,Thessaly,0.30360445,0.19298310999999999,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_44,Micro,Existing,Thessaly,0.30360445,0.19298310999999999,27,Manufacture of electrical equipment,C, Manufacturing
+p_45,Medium,Existing,Central Macedonia,2.7453641600000003,1.36321927,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
+p_46,Micro,Existing,Central Macedonia,0.3,0.18857038,11,Manufacture of beverages,C, Manufacturing
+p_47,Micro,Existing,Central Macedonia,0.84964,0.5264768000000001,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_48,Small,Existing,Attica,0.44612653,0.17845060999999998,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C, Manufacturing
+p_49,Small,Existing,Central Macedonia,0.54521548,0.32712928,10,Manufacture of food products,C, Manufacturing
+p_50,Small,Existing,Attica,0.4475,0.179,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_51,Small,Existing,Thessaly,1.501494,0.9008964,31,Manufacture of furniture,C, Manufacturing
+p_51,Small,Existing,Thessaly,1.501494,0.9008964,31,Manufacture of furniture,C, Manufacturing
+p_52,Micro,Existing,Central Macedonia,0.26266,0.183862,10,Manufacture of food products,C, Manufacturing
+p_53,Medium,Existing,Central Macedonia,1.3331663999999999,0.5908848299999999,20,Manufacture of chemicals and chemical products,C, Manufacturing
+p_53,Medium,Existing,Central Macedonia,1.3331663999999999,0.5908848299999999,20,Manufacture of chemicals and chemical products,C, Manufacturing
+p_53,Medium,Existing,Central Macedonia,1.3331663999999999,0.5908848299999999,20,Manufacture of chemicals and chemical products,C, Manufacturing
+p_53,Medium,Existing,Central Macedonia,1.3331663999999999,0.5908848299999999,20,Manufacture of chemicals and chemical products,C, Manufacturing
+p_54,Small,Existing,Attica,1.791,0.80594998,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_54,Small,Existing,Attica,1.791,0.80594998,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_54,Small,Existing,Attica,1.791,0.80594998,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_55,Small,Existing,Central Macedonia,0.61648,0.38675740000000003,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_56,Medium,Existing,Central Macedonia,2.1917707,1.04808992,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C, Manufacturing
+p_57,Small,Existing,Central Greece,2.42,1.338,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_57,Small,Existing,Central Greece,2.42,1.338,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_58,Small,Existing,Central Macedonia,1.0095,0.6057,11,Manufacture of beverages,C, Manufacturing
+p_58,Small,Existing,Central Macedonia,1.0095,0.6057,11,Manufacture of beverages,C, Manufacturing
+p_58,Small,Existing,Central Macedonia,1.0095,0.6057,11,Manufacture of beverages,C, Manufacturing
+p_58,Small,Existing,Central Macedonia,1.0095,0.6057,11,Manufacture of beverages,C, Manufacturing
+p_59,Micro,Existing,Central Macedonia,0.3502,0.24414,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_59,Micro,Existing,Central Macedonia,0.3502,0.24414,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_60,Small,Existing,Western Greece,0.4694,0.32808,10,Manufacture of food products,C, Manufacturing
+p_61,Micro,Existing,Central Macedonia,0.2734,0.17734998999999999,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_62,Small,Existing,Eastern Macedonia and Thrace,1.72953698,1.19288051,31,Manufacture of furniture,C, Manufacturing
+p_63,Small,Existing,Central Macedonia,0.9127368,0.63841574,29,"Manufacture of motor vehicles, trailers and semi-trailers",C, Manufacturing
+p_64,Micro,Existing,Epirus,0.80405,0.48243,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_64,Micro,Existing,Epirus,0.80405,0.48243,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_64,Micro,Existing,Epirus,0.80405,0.48243,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_64,Micro,Existing,Epirus,0.80405,0.48243,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_65,Micro,Existing,Central Macedonia,0.738281,0.5162967,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_66,Micro,Existing,Central Macedonia,0.56552263,0.39486584,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_67,Micro,Existing,Eastern Macedonia and Thrace,1.04694725,0.72178027,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_67,Micro,Existing,Eastern Macedonia and Thrace,1.04694725,0.72178027,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_67,Micro,Existing,Eastern Macedonia and Thrace,1.04694725,0.72178027,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_68,Micro,Existing,Western Macedonia,0.6260964499999999,0.42644535,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_69,Medium,Existing,Central Macedonia,2.0560493,1.23179151,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_69,Medium,Existing,Central Macedonia,2.0560493,1.23179151,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_70,Small,New,Central Macedonia,0.30986,0.212602,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_71,Small,Existing,Central Macedonia,0.40968,0.2292708,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_72,Micro,Existing,Central Macedonia,0.41655445,0.286815,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_72,Micro,Existing,Central Macedonia,0.41655445,0.286815,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_72,Micro,Existing,Central Macedonia,0.41655445,0.286815,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_72,Micro,Existing,Central Macedonia,0.41655445,0.286815,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_72,Micro,Existing,Central Macedonia,0.41655445,0.286815,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_72,Micro,Existing,Central Macedonia,0.41655445,0.286815,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_73,Small,Existing,Central Macedonia,0.9924713399999999,0.69006989,27,Manufacture of electrical equipment,C, Manufacturing
+p_74,Micro,Existing,Central Macedonia,0.40286781,0.24122068,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_75,Small,Existing,Central Macedonia,0.661848,0.330924,18,Printing and reproduction of recorded media,C, Manufacturing
+p_75,Small,Existing,Central Macedonia,0.661848,0.330924,18,Printing and reproduction of recorded media,C, Manufacturing
+p_75,Small,Existing,Central Macedonia,0.661848,0.330924,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_76,Micro,Existing,Central Greece,1.05064,0.52532,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_76,Micro,Existing,Central Greece,1.05064,0.52532,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_76,Micro,Existing,Central Greece,1.05064,0.52532,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_76,Micro,Existing,Central Greece,1.05064,0.52532,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_77,Medium,Existing,Attica,1.17398875,0.41089606,31,Manufacture of furniture,C, Manufacturing
+p_77,Medium,Existing,Attica,1.17398875,0.41089606,31,Manufacture of furniture,C, Manufacturing
+p_78,Micro,Existing,Central Greece,0.3081,0.18461,18,Printing and reproduction of recorded media,C, Manufacturing
+p_78,Micro,Existing,Central Greece,0.3081,0.18461,18,Printing and reproduction of recorded media,C, Manufacturing
+p_78,Micro,Existing,Central Greece,0.3081,0.18461,18,Printing and reproduction of recorded media,C, Manufacturing
+p_78,Micro,Existing,Central Greece,0.3081,0.18461,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_79,Small,Existing,Central Macedonia,2.06552525,1.3014256000000002,10,Manufacture of food products,C, Manufacturing
+p_79,Small,Existing,Central Macedonia,2.06552525,1.3014256000000002,10,Manufacture of food products,C, Manufacturing
+p_79,Small,Existing,Central Macedonia,2.06552525,1.3014256000000002,10,Manufacture of food products,C, Manufacturing
+p_79,Small,Existing,Central Macedonia,2.06552525,1.3014256000000002,10,Manufacture of food products,C, Manufacturing
+p_79,Small,Existing,Central Macedonia,2.06552525,1.3014256000000002,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_80,Small,Existing,Central Macedonia,1.0515,0.72755,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_80,Small,Existing,Central Macedonia,1.0515,0.72755,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_80,Small,Existing,Central Macedonia,1.0515,0.72755,27,Manufacture of electrical equipment,C, Manufacturing
+p_80,Small,Existing,Central Macedonia,1.0515,0.72755,27,Manufacture of electrical equipment,C, Manufacturing
+p_81,Small,Existing,South Aegean,0.6751924,0.40486541,11,Manufacture of beverages,C, Manufacturing
+p_82,Small,Existing,Central Macedonia,3.699264,2.1964891,32,Other manufacturing,C, Manufacturing
+p_83,Small,Existing,Peloponnese,2.99569,1.6473795,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_84,Small,Existing,Central Macedonia,0.612558,0.42879059999999997,14,Manufacture of wearing apparel,C, Manufacturing
+p_85,Medium,Existing,Central Macedonia,0.6788386999999999,0.30560241,10,Manufacture of food products,C, Manufacturing
+p_85,Medium,Existing,Central Macedonia,0.6788386999999999,0.30560241,10,Manufacture of food products,C, Manufacturing
+p_85,Medium,Existing,Central Macedonia,0.6788386999999999,0.30560241,10,Manufacture of food products,C, Manufacturing
+p_86,Small,Existing,Central Macedonia,3.40258188,2.38130731,10,Manufacture of food products,C, Manufacturing
+p_86,Small,Existing,Central Macedonia,3.40258188,2.38130731,52,Warehousing and support activities for transportation,H, Transportation and Storage
+p_86,Small,Existing,Central Macedonia,3.40258188,2.38130731,52,Warehousing and support activities for transportation,H, Transportation and Storage
+p_86,Small,Existing,Central Macedonia,3.40258188,2.38130731,52,Warehousing and support activities for transportation,H, Transportation and Storage
+p_86,Small,Existing,Central Macedonia,3.40258188,2.38130731,52,Warehousing and support activities for transportation,H, Transportation and Storage
+p_86,Small,Existing,Central Macedonia,3.40258188,2.38130731,52,Warehousing and support activities for transportation,H, Transportation and Storage
+p_87,Small,Existing,Central Macedonia,0.37301666,0.22355998000000002,13,Manufacture of textiles,C, Manufacturing
+p_87,Small,Existing,Central Macedonia,0.37301666,0.22355998000000002,14,Manufacture of wearing apparel,C, Manufacturing
+p_88,Small,Existing,Eastern Macedonia and Thrace,1.82071797,1.18346666,11,Manufacture of beverages,C, Manufacturing
+p_89,Medium,Existing,Crete,1.67406,1.004436,10,Manufacture of food products,C, Manufacturing
+p_89,Medium,Existing,Crete,1.67406,1.004436,10,Manufacture of food products,C, Manufacturing
+p_90,Small,Existing,Central Macedonia,0.49743116,0.32198328000000004,13,Manufacture of textiles,C, Manufacturing
+p_90,Small,Existing,Central Macedonia,0.49743116,0.32198328000000004,14,Manufacture of wearing apparel,C, Manufacturing
+p_90,Small,Existing,Central Macedonia,0.49743116,0.32198328000000004,17,Manufacture of paper and paper products,C, Manufacturing
+p_91,Small,Existing,Attica,0.727938,0.2914252,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_92,Micro,Existing,Western Greece,0.395,0.27589998,18,Printing and reproduction of recorded media,C, Manufacturing
+p_92,Micro,Existing,Western Greece,0.395,0.27589998,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_92,Micro,Existing,Western Greece,0.395,0.27589998,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_92,Micro,Existing,Western Greece,0.395,0.27589998,27,Manufacture of electrical equipment,C, Manufacturing
+p_93,Small,Existing,Central Macedonia,0.50131867,0.28058844,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_93,Small,Existing,Central Macedonia,0.50131867,0.28058844,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_93,Small,Existing,Central Macedonia,0.50131867,0.28058844,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_94,Small,Existing,Central Macedonia,0.3269,0.16345,17,Manufacture of paper and paper products,C, Manufacturing
+p_94,Small,Existing,Central Macedonia,0.3269,0.16345,18,Printing and reproduction of recorded media,C, Manufacturing
+p_95,Medium,Existing,Central Macedonia,5.9883850999999995,1.97976006,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_95,Medium,Existing,Central Macedonia,5.9883850999999995,1.97976006,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_96,Micro,Existing,Central Macedonia,0.51226235,0.34833837,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_96,Micro,Existing,Central Macedonia,0.51226235,0.34833837,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_96,Micro,Existing,Central Macedonia,0.51226235,0.34833837,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_97,Small,Existing,Western Greece,2.3104435,1.56481745,10,Manufacture of food products,C, Manufacturing
+p_97,Small,Existing,Western Greece,2.3104435,1.56481745,10,Manufacture of food products,C, Manufacturing
+p_97,Small,Existing,Western Greece,2.3104435,1.56481745,10,Manufacture of food products,C, Manufacturing
+p_98,Micro,Existing,Central Macedonia,0.52372,0.366104,24,Manufacture of basic metals,C, Manufacturing
+p_99,Micro,Existing,Thessaly,0.262,0.1829,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_99,Micro,Existing,Thessaly,0.262,0.1829,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_99,Micro,Existing,Thessaly,0.262,0.1829,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_99,Micro,Existing,Thessaly,0.262,0.1829,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_99,Micro,Existing,Thessaly,0.262,0.1829,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_99,Micro,Existing,Thessaly,0.262,0.1829,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_99,Micro,Existing,Thessaly,0.262,0.1829,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_99,Micro,Existing,Thessaly,0.262,0.1829,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_99,Micro,Existing,Thessaly,0.262,0.1829,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_99,Micro,Existing,Thessaly,0.262,0.1829,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_99,Micro,Existing,Thessaly,0.262,0.1829,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_99,Micro,Existing,Thessaly,0.262,0.1829,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_99,Micro,Existing,Thessaly,0.262,0.1829,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_99,Micro,Existing,Thessaly,0.262,0.1829,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_100,Small,Existing,Crete,1.5687,1.09759,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_100,Small,Existing,Crete,1.5687,1.09759,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_100,Small,Existing,Crete,1.5687,1.09759,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_101,Micro,Existing,Central Macedonia,2.635,1.8445,82,"Office administrative, office support and other business support activities",N, Administrative and support service activities
+p_102,Small,Existing,Western Macedonia,0.7485,0.52345,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_103,Small,Existing,Western Macedonia,2.2977514599999997,1.60792601,20,Manufacture of chemicals and chemical products,C, Manufacturing
+p_104,Small,Existing,Central Macedonia,1.64607,1.140949,27,Manufacture of electrical equipment,C, Manufacturing
+p_105,Micro,Existing,Eastern Macedonia and Thrace,0.415353,0.28244004,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_106,Medium,Existing,Central Macedonia,0.724975,0.434735,10,Manufacture of food products,C, Manufacturing
+p_107,Micro,Existing,Central Macedonia,0.4021,0.24101,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_107,Micro,Existing,Central Macedonia,0.4021,0.24101,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_107,Micro,Existing,Central Macedonia,0.4021,0.24101,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_107,Micro,Existing,Central Macedonia,0.4021,0.24101,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_108,Small,Existing,Central Macedonia,1.00236,0.601166,13,Manufacture of textiles,C, Manufacturing
+p_108,Small,Existing,Central Macedonia,1.00236,0.601166,17,Manufacture of paper and paper products,C, Manufacturing
+p_108,Small,Existing,Central Macedonia,1.00236,0.601166,18,Printing and reproduction of recorded media,C, Manufacturing
+p_109,Small,Existing,Western Greece,0.31325574,0.21827901,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
+p_109,Small,Existing,Western Greece,0.31325574,0.21827901,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
+p_109,Small,Existing,Western Greece,0.31325574,0.21827901,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
+p_109,Small,Existing,Western Greece,0.31325574,0.21827901,27,Manufacture of electrical equipment,C, Manufacturing
+p_110,Small,Existing,Central Greece,1.187621,0.7123226,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_111,Small,Existing,Central Macedonia,1.13275102,0.7649256999999999,24,Manufacture of basic metals,C, Manufacturing
+p_112,Small,Existing,Epirus,0.468774,0.3276418,71,Architectural and engineering activities; technical testing and analysis,M," Legal, accounting, management, architecture, engineering, technical testing and analysis activities"
+p_113,Small,New,Attica,0.768363,0.34576334999999997,10,Manufacture of food products,C, Manufacturing
+p_114,Micro,New,Central Macedonia,0.35099,0.210344,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_115,Micro,Existing,Attica,0.5,0.225,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_116,Small,Existing,Western Macedonia,0.572,0.3994,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_116,Small,Existing,Western Macedonia,0.572,0.3994,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_117,Medium,Existing,Thessaly,2.582153,1.30119509,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_117,Medium,Existing,Thessaly,2.582153,1.30119509,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_117,Medium,Existing,Thessaly,2.582153,1.30119509,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_118,Small,New,Attica,3.2282,1.454565,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_119,Small,Existing,Epirus,2.124753,1.4873271000000001,10,Manufacture of food products,C, Manufacturing
+p_119,Small,Existing,Epirus,2.124753,1.4873271000000001,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_120,Micro,Existing,Central Macedonia,0.6875,0.41225,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_120,Micro,Existing,Central Macedonia,0.6875,0.41225,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_121,Small,Existing,Central Macedonia,1.1475,0.79375,27,Manufacture of electrical equipment,C, Manufacturing
+p_121,Small,Existing,Central Macedonia,1.1475,0.79375,27,Manufacture of electrical equipment,C, Manufacturing
+p_122,Small,Existing,Crete,0.6375,0.4394,10,Manufacture of food products,C, Manufacturing
+p_123,Small,Existing,Thessaly,2.2144656400000002,1.31718204,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,C, Manufacturing
+p_123,Small,Existing,Thessaly,2.2144656400000002,1.31718204,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
+p_123,Small,Existing,Thessaly,2.2144656400000002,1.31718204,71,Architectural and engineering activities; technical testing and analysis,M," Legal, accounting, management, architecture, engineering, technical testing and analysis activities"
+p_124,Medium,Existing,Central Macedonia,1.04,0.52,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_124,Medium,Existing,Central Macedonia,1.04,0.52,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_124,Medium,Existing,Central Macedonia,1.04,0.52,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
+p_124,Medium,Existing,Central Macedonia,1.04,0.52,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_124,Medium,Existing,Central Macedonia,1.04,0.52,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_124,Medium,Existing,Central Macedonia,1.04,0.52,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,24,Manufacture of basic metals,C, Manufacturing
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,24,Manufacture of basic metals,C, Manufacturing
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_126,Medium,Existing,Central Greece,2.55132444,1.27566222,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_127,Small,Existing,Attica,0.507144,0.2282148,17,Manufacture of paper and paper products,C, Manufacturing
+p_127,Small,Existing,Attica,0.507144,0.2282148,17,Manufacture of paper and paper products,C, Manufacturing
+p_127,Small,Existing,Attica,0.507144,0.2282148,18,Printing and reproduction of recorded media,C, Manufacturing
+p_127,Small,Existing,Attica,0.507144,0.2282148,18,Printing and reproduction of recorded media,C, Manufacturing
+p_127,Small,Existing,Attica,0.507144,0.2282148,18,Printing and reproduction of recorded media,C, Manufacturing
+p_127,Small,Existing,Attica,0.507144,0.2282148,18,Printing and reproduction of recorded media,C, Manufacturing
+p_127,Small,Existing,Attica,0.507144,0.2282148,18,Printing and reproduction of recorded media,C, Manufacturing
+p_127,Small,Existing,Attica,0.507144,0.2282148,18,Printing and reproduction of recorded media,C, Manufacturing
+p_127,Small,Existing,Attica,0.507144,0.2282148,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_128,Micro,Existing,Western Greece,0.44899,0.26939398999999997,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_129,Small,Existing,Western Greece,0.462047,0.2310235,10,Manufacture of food products,C, Manufacturing
+p_129,Small,Existing,Western Greece,0.462047,0.2310235,10,Manufacture of food products,C, Manufacturing
+p_130,Small,Existing,Western Greece,2.6628,1.59768,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_131,Small,Existing,Central Macedonia,0.38050778999999996,0.230875,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_132,Small,Existing,South Aegean,0.7894189,0.47135134,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_132,Small,Existing,South Aegean,0.7894189,0.47135134,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_133,Medium,Existing,Peloponnese,2.32936,1.16468,27,Manufacture of electrical equipment,C, Manufacturing
+p_134,Small,Existing,Central Macedonia,1.160973,0.6108154,10,Manufacture of food products,C, Manufacturing
+p_134,Small,Existing,Central Macedonia,1.160973,0.6108154,10,Manufacture of food products,C, Manufacturing
+p_135,Small,Existing,Central Macedonia,0.460579,0.3214053,17,Manufacture of paper and paper products,C, Manufacturing
+p_135,Small,Existing,Central Macedonia,0.460579,0.3214053,18,Printing and reproduction of recorded media,C, Manufacturing
+p_135,Small,Existing,Central Macedonia,0.460579,0.3214053,18,Printing and reproduction of recorded media,C, Manufacturing
+p_136,Small,Existing,Attica,5.320202190000001,2.30971592,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,C, Manufacturing
+p_137,Medium,Existing,Western Macedonia,0.838893,0.4962258,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_137,Medium,Existing,Western Macedonia,0.838893,0.4962258,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_137,Medium,Existing,Western Macedonia,0.838893,0.4962258,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_138,Micro,Existing,Ionian Islands,0.756657,0.4523942,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_139,Small,Existing,Peloponnese,0.6995,0.2798,10,Manufacture of food products,C, Manufacturing
+p_140,Small,Existing,Central Macedonia,1.2722475,0.82696087,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_140,Small,Existing,Central Macedonia,1.2722475,0.82696087,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_140,Small,Existing,Central Macedonia,1.2722475,0.82696087,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
+p_140,Small,Existing,Central Macedonia,1.2722475,0.82696087,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
+p_140,Small,Existing,Central Macedonia,1.2722475,0.82696087,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
+p_140,Small,Existing,Central Macedonia,1.2722475,0.82696087,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
+p_140,Small,Existing,Central Macedonia,1.2722475,0.82696087,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
+p_140,Small,Existing,Central Macedonia,1.2722475,0.82696087,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_140,Small,Existing,Central Macedonia,1.2722475,0.82696087,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_141,Small,Existing,Central Macedonia,6.0,4.2,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_141,Small,Existing,Central Macedonia,6.0,4.2,52,Warehousing and support activities for transportation,H, Transportation and Storage
+p_142,Small,Existing,Eastern Macedonia and Thrace,1.02913,0.720391,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_143,Medium,Existing,Central Greece,4.03691375,1.61476549,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_144,Medium,Existing,Central Macedonia,0.93116901,0.46800139,11,Manufacture of beverages,C, Manufacturing
+p_145,Small,Existing,Attica,0.79917399,0.35962828,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_145,Small,Existing,Attica,0.79917399,0.35962828,27,Manufacture of electrical equipment,C, Manufacturing
+p_146,Small,Existing,Epirus,0.76019025,0.53113317,10,Manufacture of food products,C, Manufacturing
+p_147,Small,Existing,Central Macedonia,0.62725009,0.43907506,23,Manufacture of other non-metallic mineral products,C, Manufacturing
+p_148,Small,Existing,Western Macedonia,1.03737681,0.71916376,10,Manufacture of food products,C, Manufacturing
+p_149,Small,Existing,Western Macedonia,0.34611825,0.24128276999999998,10,Manufacture of food products,C, Manufacturing
+p_149,Small,Existing,Western Macedonia,0.34611825,0.24128276999999998,10,Manufacture of food products,C, Manufacturing
+p_149,Small,Existing,Western Macedonia,0.34611825,0.24128276999999998,10,Manufacture of food products,C, Manufacturing
+p_150,Micro,Existing,Western Macedonia,0.2919,0.20333,10,Manufacture of food products,C, Manufacturing
+p_151,Micro,Existing,North Aegean,1.16,0.86625,10,Manufacture of food products,C, Manufacturing
