@@ -14,7 +14,7 @@ wheels/
 .idea
 
 # Confidential source data file
-data/rrf_smrt_manuf_mis_granular_data.xlsx
+smart_manufacturing/data/rrf_smrt_manuf_mis_granular_data.xlsx
 
 # ipynb checkpoints
 .ipynb_checkpoints
