@@ -13,6 +13,7 @@ dependencies = [
     "plotly>=5.24.1",
     "python-dotenv>=1.0.1",
     "ruff>=0.8.2",
+    "tabula-py[jpype]>=2.10.0",
     "taipy>=4",
     "xlrd>=2.0.1",
 ]

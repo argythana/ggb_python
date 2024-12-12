@@ -499,6 +499,15 @@ wheels = [
 ]
 
 [[package]]
+name = "distro"
+version = "1.9.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/fc/f8/98eea607f65de6527f8a2e8885fc8015d3e6f5775df186e443e0964a11c3/distro-1.9.0.tar.gz", hash = "sha256:2fa77c6fd8940f116ee1d6b94a2f90b13b5ea8d019b98bc8bafdcabcdd9bdbed", size = 60722 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/12/b3/231ffd4ab1fc9d679809f356cebee130ac7daa00d6d6f3206dd4fd137e9e/distro-1.9.0-py3-none-any.whl", hash = "sha256:7bffd925d65168f85027d8da9af6bddab658135b840670a223589bc0c8ef02b2", size = 20277 },
+]
+
+[[package]]
 name = "dnspython"
 version = "2.7.0"
 source = { registry = "https://pypi.org/simple" }
@@ -672,6 +681,7 @@ dependencies = [
     { name = "plotly" },
     { name = "python-dotenv" },
     { name = "ruff" },
+    { name = "tabula-py", extra = ["jpype"] },
     { name = "taipy" },
     { name = "xlrd" },
 ]
@@ -686,6 +696,7 @@ requires-dist = [
     { name = "plotly", specifier = ">=5.24.1" },
     { name = "python-dotenv", specifier = ">=1.0.1" },
     { name = "ruff", specifier = ">=0.8.2" },
+    { name = "tabula-py", extras = ["jpype"], specifier = ">=2.10.0" },
     { name = "taipy", specifier = ">=4" },
     { name = "xlrd", specifier = ">=2.0.1" },
 ]
@@ -895,6 +906,30 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/00/2a/e867e8531cf3e36b41201936b7fa7ba7b5702dbef42922193f05c8976cd6/jmespath-1.0.1.tar.gz", hash = "sha256:90261b206d6defd58fdd5e85f478bf633a2901798906be2ad389150c5c60edbe", size = 25843 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/31/b4/b9b800c45527aadd64d5b442f9b932b00648617eb5d63d2c7a6587b7cafc/jmespath-1.0.1-py3-none-any.whl", hash = "sha256:02e2e4cc71b5bcab88332eebf907519190dd9e6e82107fa7f83b1003a6252980", size = 20256 },
+]
+
+[[package]]
+name = "jpype1"
+version = "1.5.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "packaging" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/c2/50/cc34769452934a1342326c1eee23d4e70229164364e7cbbdf3f572699f31/jpype1-1.5.1.tar.gz", hash = "sha256:cbb8ea952bf0a0c6011f21a31a97baed241c4aad0e2499db386edfd5cf2adece", size = 856550 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/9a/c7/1b1a3f1fd286cfdc3d1c39c496cef7e3535226ddd8c60c634a4960fabf71/jpype1-1.5.1-cp312-cp312-macosx_10_9_universal2.whl", hash = "sha256:2f970de32d147d3cb732e14c692bd67ed0b8cd0c02786098a25d26424ce9d053", size = 583292 },
+    { url = "https://files.pythonhosted.org/packages/b5/a2/b09d703658164b03c7a738a594cd1489a20947c83247ae0b1f276a7a3e8e/jpype1-1.5.1-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:c7263724ba753e1e579b8905401d3a11cc7bf332f5aa6f5b5e93807ac0a4ebee", size = 466099 },
+    { url = "https://files.pythonhosted.org/packages/5d/22/2b39b11265ab65d4b74b5bdf8065f0538938cee1bc654d8c4d7ef988179c/jpype1-1.5.1-cp312-cp312-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:47370280d4f88bff864a38d5b9b6eff7d92cc186939a164e208360a768ef23df", size = 508997 },
+    { url = "https://files.pythonhosted.org/packages/42/d9/61f8477f874b1e98537498c97b7a2e411c5d03216cc05a28dfe51054655e/jpype1-1.5.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:b09f4a7c1cbfe56d7f706d7e0f9fa4cc4514c43e7ddb589de5a071115daaf20f", size = 493190 },
+    { url = "https://files.pythonhosted.org/packages/fe/58/d376f5c50bad7cafbb4d93eab948ccfdea4a107dda28e016febd2be215a9/jpype1-1.5.1-cp312-cp312-win_amd64.whl", hash = "sha256:9a49463f5eadf4ed8b0bb51dffebe20171bbfc5e6dcc7c1ea9c6888582e4797d", size = 355612 },
+    { url = "https://files.pythonhosted.org/packages/74/5e/c10e9f68335fae39d0216c82fb31255cb1771b8f2a8899344dea57b735cb/jpype1-1.5.1-cp313-cp313-macosx_10_13_universal2.whl", hash = "sha256:6d17792936c36b475527217dc827f45d088c0de928f0021007e8216fb0008bf0", size = 583426 },
+    { url = "https://files.pythonhosted.org/packages/35/9c/3af1f95be832931d7a3e87de00913563b37daf78b9137da4e5b93ae99eda/jpype1-1.5.1-cp313-cp313-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:d78dd96bd21e220f8be275393f20a64ec8e1ecf071fd2d7d44dac81653e8e78a", size = 466132 },
+    { url = "https://files.pythonhosted.org/packages/32/92/b5bf19cee69d6d6f0f3f9750369dc2ce9ba211316b867d22d3c252f658d6/jpype1-1.5.1-cp313-cp313-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:bab2c0dd32ff7454d7af67e94f27f5be2fe49b687791cd853db9474ecb046eb2", size = 508987 },
+    { url = "https://files.pythonhosted.org/packages/53/09/c1d188d04fc308049163313419d3d606e2924005015174ba5e276a1b511c/jpype1-1.5.1-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:3bd441732ee864ddec56369d01b131aa851d43d6d722d9b236d09eda5c2c691a", size = 493200 },
+    { url = "https://files.pythonhosted.org/packages/5f/35/e88bc402f2e476449bb835e568c72e6dad6463ca30aa692df84afe5caa7d/jpype1-1.5.1-cp313-cp313-win_amd64.whl", hash = "sha256:39bf24e4a2f1001906d235b731a3fd573e89164a569be592485bb54f394ccd5b", size = 355599 },
+    { url = "https://files.pythonhosted.org/packages/fc/83/c2506cd274b4694e4f734daa37c994e5c065e9ecc587779c65d29d3a186d/jpype1-1.5.1-cp313-cp313t-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:0d038b7dcd7b16debba51df5d1ad9d60239a6dd873b13f4c2bd210a25465d5ae", size = 467940 },
+    { url = "https://files.pythonhosted.org/packages/e8/d2/45940d85e2e83822f73b72f687468f649aa6f4109ac9bdabfbcb017a378b/jpype1-1.5.1-cp313-cp313t-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:a1952e2de26c66c2c7b6fc0a8a9546f596fa9afed5490acb6ab17d2b6d767ed4", size = 511001 },
+    { url = "https://files.pythonhosted.org/packages/0d/99/c9d6eef8eec9efbb64b776814866345caf498d20245c7ecbc28daa1484ea/jpype1-1.5.1-cp313-cp313t-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:699b555cb549659679b69a8ec2d708ac416a08c0b148d0122d3ce133d37a4229", size = 494520 },
 ]
 
 [[package]]
@@ -2120,6 +2155,25 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/28/e3/55dcc2cfbc3ca9c29519eb6884dd1415ecb53b0e934862d3559ddcb7e20b/stack_data-0.6.3.tar.gz", hash = "sha256:836a778de4fec4dcd1dcd89ed8abff8a221f58308462e1c4aa2a3cf30148f0b9", size = 44707 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/f1/7b/ce1eafaf1a76852e2ec9b22edecf1daa58175c090266e9f6c64afcd81d91/stack_data-0.6.3-py3-none-any.whl", hash = "sha256:d5558e0c25a4cb0853cddad3d77da9891a08cb85dd9f9f91b9f8cd66e511e695", size = 24521 },
+]
+
+[[package]]
+name = "tabula-py"
+version = "2.10.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "distro" },
+    { name = "numpy" },
+    { name = "pandas" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/e2/31/2a14a5048f681c404ae0b32a00d141128dd3065965190fdcae3b33e2bcae/tabula_py-2.10.0.tar.gz", hash = "sha256:75968a83fe978e5d56ccf23f0f0255a459c256b7b52db7cabe5ac795bb3b12df", size = 12459408 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/2f/80/10bc6f303054d1a06eb8628f90e5997f4b1272956a477230f3fa95637c28/tabula_py-2.10.0-py3-none-any.whl", hash = "sha256:c7596c559fc813e313eb4fbc7aabe7e4290dbd04717c4cbe4aa4a2cafd00ab63", size = 12021009 },
+]
+
+[package.optional-dependencies]
+jpype = [
+    { name = "jpype1" },
 ]
 
 [[package]]
