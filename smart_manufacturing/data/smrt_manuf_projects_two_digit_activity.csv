@@ -27,7 +27,7 @@ p_11,Small,Existing,Central Macedonia,0.7097,0.446786,13,Manufacture of textiles
 p_11,Small,Existing,Central Macedonia,0.7097,0.446786,14,Manufacture of wearing apparel,C, Manufacturing
 p_11,Small,Existing,Central Macedonia,0.7097,0.446786,31,Manufacture of furniture,C, Manufacturing
 p_11,Small,Existing,Central Macedonia,0.7097,0.446786,32,Other manufacturing,C, Manufacturing
-p_12,Small,Existing,Central Greece,1.92544332,1.15526599,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_12,Small,Existing,Sterea Ellada,1.92544332,1.15526599,22,Manufacture of rubber and plastic products,C, Manufacturing
 p_13,Micro,Existing,Attica,2.29,0.8015,18,Printing and reproduction of recorded media,C, Manufacturing
 p_14,Medium,Existing,Epirus,1.19538853,0.45424764,11,Manufacture of beverages,C, Manufacturing
 p_15,Small,Existing,Attica,0.5437692,0.21775767999999998,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
@@ -47,7 +47,7 @@ p_20,Micro,Existing,Central Macedonia,0.8234,0.459925,31,Manufacture of furnitur
 p_20,Micro,Existing,Central Macedonia,0.8234,0.459925,31,Manufacture of furniture,C, Manufacturing
 p_20,Micro,Existing,Central Macedonia,0.8234,0.459925,31,Manufacture of furniture,C, Manufacturing
 p_20,Micro,Existing,Central Macedonia,0.8234,0.459925,31,Manufacture of furniture,C, Manufacturing
-p_21,Micro,Existing,Central Greece,0.867332,0.5203992000000001,11,Manufacture of beverages,C, Manufacturing
+p_21,Micro,Existing,Sterea Ellada,0.867332,0.5203992000000001,11,Manufacture of beverages,C, Manufacturing
 p_22,Medium,Existing,Peloponnese,0.69492751,0.30802610999999996,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
 p_23,Micro,Existing,Attica,0.6966296,0.31433332,18,Printing and reproduction of recorded media,C, Manufacturing
 p_23,Micro,Existing,Attica,0.6966296,0.31433332,18,Printing and reproduction of recorded media,C, Manufacturing
@@ -64,7 +64,7 @@ p_29,Small,Existing,Western Greece,0.84533646,0.42266823,25,"Manufacture of fabr
 p_29,Small,Existing,Western Greece,0.84533646,0.42266823,31,Manufacture of furniture,C, Manufacturing
 p_30,Small,Existing,Eastern Macedonia and Thrace,0.64114048,0.35569574,27,Manufacture of electrical equipment,C, Manufacturing
 p_31,Micro,Existing,Eastern Macedonia and Thrace,0.62407494,0.37419496,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_32,Small,Existing,Central Greece,0.3838,0.23003,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_32,Small,Existing,Sterea Ellada,0.3838,0.23003,22,Manufacture of rubber and plastic products,C, Manufacturing
 p_33,Micro,Existing,Western Greece,0.4369,0.26214,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
 p_33,Micro,Existing,Western Greece,0.4369,0.26214,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
 p_33,Micro,Existing,Western Greece,0.4369,0.26214,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
@@ -108,8 +108,8 @@ p_54,Small,Existing,Attica,1.791,0.80594998,33,Repair and installation of machin
 p_54,Small,Existing,Attica,1.791,0.80594998,33,Repair and installation of machinery and equipment,C, Manufacturing
 p_55,Small,Existing,Central Macedonia,0.61648,0.38675740000000003,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
 p_56,Medium,Existing,Central Macedonia,2.1917707,1.04808992,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C, Manufacturing
-p_57,Small,Existing,Central Greece,2.42,1.338,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_57,Small,Existing,Central Greece,2.42,1.338,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_57,Small,Existing,Sterea Ellada,2.42,1.338,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_57,Small,Existing,Sterea Ellada,2.42,1.338,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
 p_58,Small,Existing,Central Macedonia,1.0095,0.6057,11,Manufacture of beverages,C, Manufacturing
 p_58,Small,Existing,Central Macedonia,1.0095,0.6057,11,Manufacture of beverages,C, Manufacturing
 p_58,Small,Existing,Central Macedonia,1.0095,0.6057,11,Manufacture of beverages,C, Manufacturing
@@ -145,16 +145,16 @@ p_74,Micro,Existing,Central Macedonia,0.40286781,0.24122068,25,"Manufacture of f
 p_75,Small,Existing,Central Macedonia,0.661848,0.330924,18,Printing and reproduction of recorded media,C, Manufacturing
 p_75,Small,Existing,Central Macedonia,0.661848,0.330924,18,Printing and reproduction of recorded media,C, Manufacturing
 p_75,Small,Existing,Central Macedonia,0.661848,0.330924,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_76,Micro,Existing,Central Greece,1.05064,0.52532,22,Manufacture of rubber and plastic products,C, Manufacturing
-p_76,Micro,Existing,Central Greece,1.05064,0.52532,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_76,Micro,Existing,Central Greece,1.05064,0.52532,33,Repair and installation of machinery and equipment,C, Manufacturing
-p_76,Micro,Existing,Central Greece,1.05064,0.52532,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_76,Micro,Existing,Sterea Ellada,1.05064,0.52532,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_76,Micro,Existing,Sterea Ellada,1.05064,0.52532,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_76,Micro,Existing,Sterea Ellada,1.05064,0.52532,33,Repair and installation of machinery and equipment,C, Manufacturing
+p_76,Micro,Existing,Sterea Ellada,1.05064,0.52532,33,Repair and installation of machinery and equipment,C, Manufacturing
 p_77,Medium,Existing,Attica,1.17398875,0.41089606,31,Manufacture of furniture,C, Manufacturing
 p_77,Medium,Existing,Attica,1.17398875,0.41089606,31,Manufacture of furniture,C, Manufacturing
-p_78,Micro,Existing,Central Greece,0.3081,0.18461,18,Printing and reproduction of recorded media,C, Manufacturing
-p_78,Micro,Existing,Central Greece,0.3081,0.18461,18,Printing and reproduction of recorded media,C, Manufacturing
-p_78,Micro,Existing,Central Greece,0.3081,0.18461,18,Printing and reproduction of recorded media,C, Manufacturing
-p_78,Micro,Existing,Central Greece,0.3081,0.18461,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_78,Micro,Existing,Sterea Ellada,0.3081,0.18461,18,Printing and reproduction of recorded media,C, Manufacturing
+p_78,Micro,Existing,Sterea Ellada,0.3081,0.18461,18,Printing and reproduction of recorded media,C, Manufacturing
+p_78,Micro,Existing,Sterea Ellada,0.3081,0.18461,18,Printing and reproduction of recorded media,C, Manufacturing
+p_78,Micro,Existing,Sterea Ellada,0.3081,0.18461,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
 p_79,Small,Existing,Central Macedonia,2.06552525,1.3014256000000002,10,Manufacture of food products,C, Manufacturing
 p_79,Small,Existing,Central Macedonia,2.06552525,1.3014256000000002,10,Manufacture of food products,C, Manufacturing
 p_79,Small,Existing,Central Macedonia,2.06552525,1.3014256000000002,10,Manufacture of food products,C, Manufacturing
@@ -238,7 +238,7 @@ p_109,Small,Existing,Western Greece,0.31325574,0.21827901,26,"Manufacture of com
 p_109,Small,Existing,Western Greece,0.31325574,0.21827901,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
 p_109,Small,Existing,Western Greece,0.31325574,0.21827901,26,"Manufacture of computer, electronic and optical products",C, Manufacturing
 p_109,Small,Existing,Western Greece,0.31325574,0.21827901,27,Manufacture of electrical equipment,C, Manufacturing
-p_110,Small,Existing,Central Greece,1.187621,0.7123226,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_110,Small,Existing,Sterea Ellada,1.187621,0.7123226,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
 p_111,Small,Existing,Central Macedonia,1.13275102,0.7649256999999999,24,Manufacture of basic metals,C, Manufacturing
 p_112,Small,Existing,Epirus,0.468774,0.3276418,71,Architectural and engineering activities; technical testing and analysis,M," Legal, accounting, management, architecture, engineering, technical testing and analysis activities"
 p_113,Small,New,Attica,0.768363,0.34576334999999997,10,Manufacture of food products,C, Manufacturing
@@ -266,23 +266,23 @@ p_124,Medium,Existing,Central Macedonia,1.04,0.52,26,"Manufacture of computer, e
 p_124,Medium,Existing,Central Macedonia,1.04,0.52,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
 p_124,Medium,Existing,Central Macedonia,1.04,0.52,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
 p_124,Medium,Existing,Central Macedonia,1.04,0.52,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,24,Manufacture of basic metals,C, Manufacturing
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,24,Manufacture of basic metals,C, Manufacturing
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_125,Small,Existing,Central Greece,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
-p_126,Medium,Existing,Central Greece,2.55132444,1.27566222,22,Manufacture of rubber and plastic products,C, Manufacturing
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,24,Manufacture of basic metals,C, Manufacturing
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,24,Manufacture of basic metals,C, Manufacturing
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,28,Manufacture of machinery and equipment n.e.c.,C, Manufacturing
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_125,Small,Existing,Sterea Ellada,0.29434569,0.17477741,38,"Waste collection, treatment and disposal activities; materials recovery",E," Water supply, sewerage, waste management and remediation"
+p_126,Medium,Existing,Sterea Ellada,2.55132444,1.27566222,22,Manufacture of rubber and plastic products,C, Manufacturing
 p_127,Small,Existing,Attica,0.507144,0.2282148,17,Manufacture of paper and paper products,C, Manufacturing
 p_127,Small,Existing,Attica,0.507144,0.2282148,17,Manufacture of paper and paper products,C, Manufacturing
 p_127,Small,Existing,Attica,0.507144,0.2282148,18,Printing and reproduction of recorded media,C, Manufacturing
@@ -338,7 +338,7 @@ p_140,Small,Existing,Central Macedonia,1.2722475,0.82696087,28,Manufacture of ma
 p_141,Small,Existing,Central Macedonia,6.0,4.2,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
 p_141,Small,Existing,Central Macedonia,6.0,4.2,52,Warehousing and support activities for transportation,H, Transportation and Storage
 p_142,Small,Existing,Eastern Macedonia and Thrace,1.02913,0.720391,23,Manufacture of other non-metallic mineral products,C, Manufacturing
-p_143,Medium,Existing,Central Greece,4.03691375,1.61476549,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
+p_143,Medium,Existing,Sterea Ellada,4.03691375,1.61476549,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
 p_144,Medium,Existing,Central Macedonia,0.93116901,0.46800139,11,Manufacture of beverages,C, Manufacturing
 p_145,Small,Existing,Attica,0.79917399,0.35962828,25,"Manufacture of fabricated metal products, except machinery and equipment",C, Manufacturing
 p_145,Small,Existing,Attica,0.79917399,0.35962828,27,Manufacture of electrical equipment,C, Manufacturing
