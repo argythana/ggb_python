@@ -1,5 +1,5 @@
 """
-Python Dictionaries with translasions.
+Python Dictionaries with translasions and transliterations.
 Used to store translations from different to populate the traslations.json file.
 Contains regex funtions to harmonize different names for the same region from different sources (Todo).
 Contains function to traslate across three languages in the translation.json output file (Todo).
@@ -30,8 +30,8 @@ MIS_REGIONS_TRANSLATIONS_GR_EN = {
 # Region names from the official Implementation guide
 # Check why 'Ευρυτανία has been singled out.
 
-OFFICIAL_GUIDE_REGIONS_TRANSLATIONS_GR_EN = {
-    'Βόρειο Αιγαίο': 'North Aegean',
+OFFICIAL_GUIDE_REGIONS_TRANSLITERATIONS_GR_EN = {
+    'Βόρειο Αιγαίο': 'Voreio Aigaio',
     'Κρήτη': 'Crete',
     'ΑνατολικήΜακεδονία- Θράκη': 'Eastern Macedonia and Thrace',
     'Κεντρική Μακεδονία': 'Central Macedonia',
